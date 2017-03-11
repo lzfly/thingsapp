@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/smartdevice/util/|com.smartdevice.util/" kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/android-support-v4.jar" sourcepath="D:/softs/adt-bundle-windows-x86_64-20140702/sdk/extras/android/support/v4/src"/>
+	<classpathentry exported="true" kind="lib" path="D:/workspace/appcompat_v7/libs/android-support-v7-appcompat.jar" sourcepath="D:/ProgramFiles/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/23.1.0/appcompat-v7-23.1.0-sources.jar"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="lib" path="D:/work/MQTT/org.eclipse.paho.client.mqttv3-1.0.2.jar" sourcepath="D:/work/MQTT/org.eclipse.paho.mqtt.java-1.0.2/org.eclipse.paho.mqtt.java-1.0.2/org.eclipse.paho.client.mqttv3/src"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
